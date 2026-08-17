@@ -1,0 +1,15 @@
+//استخدام +
+let firstname="shahd";
+let lastname="alhaj"
+let fullname=farstname+" "+lastname;
+console.log(fullname);
+
+//استخدام +=
+let firstname="shahd";
+firstname+="alhaj"
+console.log(firstname);
+
+//concat()
+let firstname="shahd";
+let lastname="alhaj";
+let fullname=firstname.concat("",lastname);
